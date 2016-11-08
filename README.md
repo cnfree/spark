@@ -1,4 +1,4 @@
-# This is a copy of spark based on Scala IDE.
+# This is a copy of spark based on Scala IDE
 
 
 # Apache Spark
