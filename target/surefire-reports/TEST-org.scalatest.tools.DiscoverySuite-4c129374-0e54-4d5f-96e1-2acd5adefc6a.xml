@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="ZXHehe" name="org.scalatest.tools.DiscoverySuite" tests="0" time="0.025" timestamp="2016-11-07T20:11:35">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property name="sun.boot.library.path" value="C:\develop\jdk1.8\jre\bin">
+    </property>
+    <property name="java.vm.version" value="25.92-b14"> </property>
+    <property name="java.vm.vendor" value="Oracle Corporation"> </property>
+    <property name="java.vendor.url" value="http://java.oracle.com/">
+    </property>
+    <property name="path.separator" value=";"> </property>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM">
+    </property>
+    <property name="file.encoding.pkg" value="sun.io"> </property>
+    <property name="user.script" value=""> </property>
+    <property name="user.country" value="CN"> </property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"> </property>
+    <property name="sun.os.patch.level" value=""> </property>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property name="user.dir" value="C:\develop\Scala-IDE\spark\spark-1.6.2">
+    </property>
+    <property name="java.runtime.version" value="1.8.0_92-b14"> </property>
+    <property name="spark.ui.enabled" value="false"> </property>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment">
+</property>
+    <property name="basedir" value="C:\develop\Scala-IDE\spark\spark-1.6.2">
+    </property>
+    <property 
+    name="java.endorsed.dirs" value="C:\develop\jdk1.8\jre\lib\endorsed">
+</property>
+    <property name="os.arch" value="x86"> </property>
+    <property 
+    name="java.io.tmpdir" value="C:\develop\Scala-IDE\spark\spark-1.6.2\target/tmp">
+</property>
+    <property name="derby.system.durability" value="test"> </property>
+    <property name="line.separator" value=" "> </property>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.variant" value=""> </property>
+    <property name="os.name" value="Windows 8.1"> </property>
+    <property name="sun.jnu.encoding" value="GBK"> </property>
+    <property name="spark.ui.showConsoleProgress" value="false"> </property>
+    <property 
+    name="java.library.path" value="C:\develop\jdk1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\develop\jdk1.8\bin;C:\Program Files (x86)\Visual Leak Detector\bin\Win32;C:\Program Files (x86)\Visual Leak Detector\bin\Win64;C:\Develop\scala\bin;C:\develop\wamp\bin\php\php5.6.16;C:\develop\wamp\bin\php\php5.6.16\ext;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\develop\Ruby\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;.">
+</property>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property name="java.class.version" value="52.0"> </property>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler">
+    </property>
+    <property name="os.version" value="6.3"> </property>
+    <property name="user.home" value="C:\Users\Feeling"> </property>
+    <property name="user.timezone" value=""> </property>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob">
+    </property>
+    <property name="java.specification.version" value="1.8"> </property>
+    <property name="file.encoding" value="GBK"> </property>
+    <property name="spark.testing" value="1"> </property>
+    <property name="user.name" value="Feeling"> </property>
+    <property 
+    name="java.class.path" value="C:\develop\Scala-IDE\spark\spark-1.6.2\target\test-classes;C:\develop\Scala-IDE\spark\spark-1.6.2\target\classes;C:\Users\Feeling\.m2\repository\org\spark-project\spark\unused\1.0.0\unused-1.0.0.jar;C:\Users\Feeling\.m2\repository\org\scalatest\scalatest_2.10\2.2.1\scalatest_2.10-2.2.1.jar;C:\Users\Feeling\.m2\repository\org\scala-lang\scala-library\2.10.5\scala-library-2.10.5.jar;C:\Users\Feeling\.m2\repository\org\scala-lang\scala-reflect\2.10.5\scala-reflect-2.10.5.jar;C:\Users\Feeling\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Feeling\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Feeling\.m2\repository\com\novocode\junit-interface\0.11\junit-interface-0.11.jar;C:\Users\Feeling\.m2\repository\org\scala-sbt\test-interface\1.0\test-interface-1.0.jar">
+</property>
+    <property name="java.vm.specification.version" value="1.8"> </property>
+    <property name="sun.arch.data.model" value="32"> </property>
+    <property name="java.home" value="C:\develop\jdk1.8\jre"> </property>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -R C:\develop\Scala-IDE\spark\spark-1.6.2\target\classes C:\develop\Scala-IDE\spark\spark-1.6.2\target\test-classes -o -f C:\develop\Scala-IDE\spark\spark-1.6.2\target\surefire-reports\SparkTestSuite.txt -u C:\develop\Scala-IDE\spark\spark-1.6.2\target\surefire-reports\.">
+</property>
+    <property name="java.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.language" value="zh"> </property>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"> </property>
+    <property name="java.vm.info" value="mixed mode"> </property>
+    <property name="java.version" value="1.8.0_92"> </property>
+    <property 
+    name="java.ext.dirs" value="C:\develop\jdk1.8\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext">
+</property>
+    <property 
+    name="sun.boot.class.path" value="C:\develop\jdk1.8\jre\lib\resources.jar;C:\develop\jdk1.8\jre\lib\rt.jar;C:\develop\jdk1.8\jre\lib\sunrsasign.jar;C:\develop\jdk1.8\jre\lib\jsse.jar;C:\develop\jdk1.8\jre\lib\jce.jar;C:\develop\jdk1.8\jre\lib\charsets.jar;C:\develop\jdk1.8\jre\lib\jfr.jar;C:\develop\jdk1.8\jre\classes">
+</property>
+    <property 
+    name="spark.test.home" value="C:\develop\Scala-IDE\spark\spark-1.6.2">
+</property>
+    <property name="java.vendor" value="Oracle Corporation"> </property>
+    <property name="java.awt.headless" value="true"> </property>
+    <property name="file.separator" value="\"> </property>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/">
+</property>
+    <property name="spark.unsafe.exceptionOnMemoryLeak" value="true">
+    </property>
+    <property name="sun.cpu.endian" value="little"> </property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"> </property>
+    <property name="sun.desktop" value="windows"> </property>
+    <property name="test.src.tables" value="__not_used__"> </property>
+    <property 
+    name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86">
+</property>
+  </properties>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

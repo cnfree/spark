@@ -1,0 +1,15 @@
+16/11/07 20:13:41.783 LauncherServer-1 WARN LauncherServer: Timed out waiting for hello message from client.
+16/11/07 20:13:41.785 LauncherServer-2 WARN LauncherConnection: Error in inbound message handling.
+java.net.SocketException: Socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at java.net.SocketInputStream.read(SocketInputStream.java:223)
+	at java.io.ObjectInputStream$PeekInputStream.peek(ObjectInputStream.java:2321)
+	at java.io.ObjectInputStream$BlockDataInputStream.peek(ObjectInputStream.java:2614)
+	at java.io.ObjectInputStream$BlockDataInputStream.peekByte(ObjectInputStream.java:2624)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1321)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:373)
+	at org.apache.spark.launcher.LauncherConnection.run(LauncherConnection.java:58)
+	at java.lang.Thread.run(Thread.java:745)

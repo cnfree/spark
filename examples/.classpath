@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/scala-2.10/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/scala-2.10/classes" path="src/main/scala">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/scala-2.10/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/scala">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-bagel_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-catalyst_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-core_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-docker-integration-tests_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-ganglia-lgpl_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-graphx_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-hive_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-hive-thriftserver_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-launcher_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-mllib_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-network-common_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-network-shuffle_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-network-yarn_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-repl_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-sql_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-flume_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-flume-assembly_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-flume-sink_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-kafka_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-kafka-assembly_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-kinesis-asl_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-kinesis-asl-assembly_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-mqtt_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-mqtt-assembly_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-twitter_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-streaming-zeromq_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-test-tags_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-tools_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-unsafe_2.10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spark-yarn_2.10"/>
+	<classpathentry kind="output" path="target/scala-2.10/classes"/>
+</classpath>
